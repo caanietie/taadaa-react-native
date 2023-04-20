@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "my_app",
-    "slug": "my_app",
+    "name": "ToDo List App",
+    "slug": "ToDo List App",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "sdkVersion": "45.0.0"
   },
-  "name": "my_app"
+  "name": "ToDo List App"
 }
